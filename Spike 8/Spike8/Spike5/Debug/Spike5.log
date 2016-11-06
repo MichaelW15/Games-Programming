@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Spike5.vcxproj, Spike6.vcxproj, Spike7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorldProcessor.cpp
+c:\users\michael\googledrive\swinburne\cos30031\spike 8\spike8\spike5\worldprocessor.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  TakeCommand.cpp
+  StateManager.cpp
+  Source.cpp
+  SelectAdventure.cpp
+  Quit.cpp
+  PutCommand.cpp
+  Player.cpp
+c:\users\michael\googledrive\swinburne\cos30031\spike 8\spike8\spike5\player.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  OpenCommand.cpp
+  NewHighScore.cpp
+  MainMenu.cpp
+  LookCommand.cpp
+  InventoryCommand.cpp
+  Help.cpp
+  HallOfFame.cpp
+  Graph.cpp
+  GoCommand.cpp
+  GameWorld.cpp
+  GameplayVoidWorld.cpp
+  DropCommand.cpp
+  Generating Code...
+  Compiling...
+  CommandProcessor.cpp
+c:\users\michael\googledrive\swinburne\cos30031\spike 8\spike8\spike5\commandprocessor.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  CloseCommand.cpp
+  AttackCommand.cpp
+  About.cpp
+  Generating Code...
+  Spike5.vcxproj -> C:\Users\Michael\GoogleDrive\Swinburne\COS30031\Spike 8\Spike8\Debug\Spike8.exe

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Spike5.vcxproj, Spike6.vcxproj, Spike7.vcxproj, Spike8.vcxproj, Spike9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  TakeCommand.cpp
+  LookCommand.cpp
+  GameWorld.cpp
+  GameEntity.cpp
+  ComponentManager.cpp
+  Component.cpp
+  Spike5.vcxproj -> C:\Users\Michael\GoogleDrive\Swinburne\COS30031\Spike 10\Spike10\Debug\Spike10.exe

@@ -1,0 +1,6 @@
+<Location>
+	<Name>LocationName
+	<Connections>Node1,Node2
+	<Directions>Direction1,Direction2,
+</Location>
+</!>

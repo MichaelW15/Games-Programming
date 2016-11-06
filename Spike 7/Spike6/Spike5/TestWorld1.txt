@@ -1,0 +1,7 @@
+[-
+00-South_01/-
+LOCATION2-West_03/North_00/South_02/-
+02-West_03/North_01/Take Shortcut_00/-
+03-East_01/South_04/-
+04-North_03/-
+]-

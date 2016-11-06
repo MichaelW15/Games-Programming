@@ -1,0 +1,21 @@
+How messages are sent
+	Messages will be sent via an intemediary message handler who will determine who is the recipient of the message.
+
+How messages are received and acted upon.
+	Each messageable object will have a receive message method which the message handler will invoke.
+
+How messages are addressed
+	Messages are addressed using entity names (sword, chest, etc.)
+
+What content is included in a message
+	A message will contain:
+		-Sender
+		-Receiver
+		-Message
+	This will all be stored as strings inside a message object.
+
+How objects register to receive messages
+	Any object which implements the Messageable_Entity class will automatically be registered with the message handler.
+
+Whether a message contains information about who sent it
+	A message will contain the sender in order to faciitate replies if required.
